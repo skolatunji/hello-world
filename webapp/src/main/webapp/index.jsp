@@ -38,5 +38,7 @@
  <h1> Indication of changes made after webhook has been added to reflect seamless automation. </h1>
 
  <h1> This is to test if PollSCM works having tested "Build periodcally" previously as a way to see if Github and Jenkins work in auto mode. </h1>
+
+ <h1> Checking again too see if PollSCM works having tested "Build periodcally" previously as a way to see if Github and Jenkins work in auto mode. </h1>
   
 </form>
